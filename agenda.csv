@@ -1,0 +1,36 @@
+data;municipio;bairro;acao;logradouro;trecho;postes;horario;ponto_encontro;latitude;longitude
+30/09/2026;Vila Velha;Prainha;1;Rua Antônio Ataíde;;;8h;;-20.33031639950171;-40.29092075385875
+08/10/2026;Vila Velha;Prainha;2;Av. Antônio Ferreira de Queirós;;;8h;;-20.32933996258825;-40.29145502429513
+22/10/2026;Vila Velha;Prainha;3;Praça Otávio Araújo;;;8h;;-20.33045810140986;-40.291924322430795
+04/11/2026;Vila Velha;Prainha;4;Av. Luciano das Neves;;;8h;;-20.329843253058783;-40.29211476017375
+19/11/2026;Vila Velha;Prainha;5;Rua Luiza Grinalda;;;8h;;-20.330369175569533;-40.29047636318103
+03/12/2026;Vila Velha;Prainha;6;Rua Pedro Palácios;;;8h;;-20.33005697059487;-40.291279729742975
+03/12/2026;Vila Velha;Prainha;6;Rua Cel. Mascarenhas;;;8h;;-20.330672231322385;-40.29142916966026
+03/12/2026;Vila Velha;Prainha;6;Rua Vasco Coutinho;;;8h;;-20.331232751427475;-40.29141982967094
+10/12/2026;Vila Velha;Boa Vista I;7;Rua Getúlio Vargas;;;8h;;-20.351751353975366;-40.30144689598904
+22/12/2026;Vila Velha;Boa Vista I;8;Rua Viana;;;8h;;-20.351998522499073;-40.30337615974821
+05/01/2027;Vila Velha;Boa Vista I;9;Rua Érico Veríssimo;;;8h;;-20.352041945512113;-40.30281285969078
+05/01/2027;Vila Velha;Boa Vista I;9;Rua Oswaldo de Andrade;;;8h;;-20.352664340690847;-40.30270479312165
+20/01/2027;Vila Velha;Boa Vista I;10;Rua José Mauro de Vasconcelos;;;8h;;-20.3528144;-40.3023510
+20/01/2027;Vila Velha;Boa Vista I;10;Rua Joaquim Manoel Macedo;;;8h;;-20.353118843184582;-40.30223401013815
+28/01/2027;Vila Velha;Boa Vista I;11;Rua Rubens Braga;;;8h;;-20.353469864189297;-40.302140411114245
+04/02/2027;Vila Velha;Boa Vista I;12;Rua Machado de Assis;;;8h;;-20.35362218283111;-40.303831061938375
+16/02/2027;Vila Velha;Boa Vista I;13;Rua Graça Aranha;;;8h;;-20.35307195696556;-40.30341139765895
+25/02/2027;Vila Velha;Boa Vista I;14;Rua Viriato Correia;;;8h;;-20.35264636293032;-40.30268706162249
+25/02/2027;Vila Velha;Boa Vista I;14;Rua José de Alencar;;;8h;;-20.352091545733636;-40.302274646504735
+06/10/2026;Guarapari;Aeroporto;1;Av. Padre José de Anchieta;Trecho 1 – postes 1 a 14 (sentido Extra Center → Av. Paris);14;8h;Estacionamento do Extra Center;-20.652771;-40.497584
+20/10/2026;Guarapari;Aeroporto;2;Av. Padre José de Anchieta;Trecho 2 – postes 15 a 28 (sentido Extra Center → Av. Paris);14;8h;Estacionamento do Extra Center;-20.652771;-40.497584
+05/11/2026;Guarapari;Aeroporto;3;Av. Padre José de Anchieta;Trecho 3 – postes 29 a 42 (sentido Extra Center → Av. Paris);14;8h;Pátio do Posto BR;-20.6419247;-40.4851945
+17/11/2026;Guarapari;Aeroporto;4;Av. Padre José de Anchieta;Trecho 4 – postes 43 a 55 (sentido Extra Center → Av. Paris);13;8h;Pátio do Posto BR;-20.6419247;-40.4851945
+14/10/2026;Piúma;;1;Av. Guido Brunini;Salgaderia Stein → Papa Léguas Lanches e Pizzas;24;8h;Próximo à ponte sobre o Rio Novo;-20.8539768;-40.7514072
+21/10/2026;Piúma;;2;Av. Guido Brunini;Papa Léguas Lanches e Pizzas → Rações Litoral;21;8h;Próximo à ponte sobre o Rio Novo;-20.8539768;-40.7514072
+28/10/2026;Piúma;;3;Av. Guido Brunini;Rações Litoral → Aghá Salgados;28;8h;Próximo à ponte sobre o Rio Novo;-20.8539768;-40.7514072
+11/11/2026;Piúma;;4;Av. Guido Brunini;Aghá Salgados → final do trecho urbano;20;8h;Próximo à ponte sobre o Rio Novo;-20.8539768;-40.7514072
+18/11/2026;Piúma;;5;Rua Miguel Metri;Comunidade da Sagrada Família → Loja Pontocom;22;8h;Praça da Igreja Sagrada Família;-20.838798;-40.729856
+25/11/2026;Piúma;;6;Rua Miguel Metri;Loja Pontocom → Igreja Pentecostal Água Viva;24;8h;Praça da Igreja Sagrada Família;-20.838798;-40.729856
+02/12/2026;Piúma;;7;Rua Miguel Metri;Igreja Pentecostal Água Viva → Salgaderia Stein;18;8h;Praça da Igreja Sagrada Família;-20.838798;-40.729856
+17/02/2027;Piúma;;8;Orla de Piúma;Academia Mauro Boto → Posto Ventura;22;8h;Em frente à Academia Clube do Farol;-20.852802;-40.748946
+24/02/2027;Piúma;;9;Orla de Piúma;Posto Ventura → Jucy Supermercado;21;8h;Em frente à Academia Clube do Farol;-20.852802;-40.748946
+03/03/2027;Piúma;;10;Orla de Piúma;Jucy Supermercado → Piúma Praia Hotel;23;8h;Em frente à Academia Clube do Farol;-20.852802;-40.748946
+10/03/2027;Piúma;;11;Orla de Piúma;Piúma Praia Hotel → Academia Clube do Farol;23;8h;Em frente à Academia Clube do Farol;-20.852802;-40.748946
+17/03/2027;Piúma;;12;Quarteirão no final da Orla;R. Itaperuna, Av. Beira Mar, R. Darly Carvalho e Av. Guido Brunini;16;8h;Em frente à Academia Clube do Farol;-20.852802;-40.748946
