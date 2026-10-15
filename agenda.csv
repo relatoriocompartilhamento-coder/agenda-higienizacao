@@ -49,9 +49,9 @@ data;municipio;bairro;acao;logradouro;trecho;postes;horario;ponto_encontro;latit
 04/04/2027;Santa Maria de Jetibá;Centro;9;Rua 06 de Maio;toda a extensão;;8h;Prefeitura Municipal (Av. Frederico Grulke, 160);;
 18/04/2027;Santa Maria de Jetibá;Centro;10;Rua Augusto Jacob;toda a extensão;;8h;Prefeitura Municipal (Av. Frederico Grulke, 160);;
 18/04/2027;Santa Maria de Jetibá;Centro;10;Rua Martin Jacob;toda a extensão;;8h;Prefeitura Municipal (Av. Frederico Grulke, 160);;
-01/12/2026;Guarapari;Centro;1;Av. Joaquim da Silva Lima;Trecho 1 - postes 1 a 22 (Fase II);22;8h;Início do trecho;-20.676064;-40.503318
-15/12/2026;Guarapari;Centro;2;Av. Joaquim da Silva Lima;Trecho 2 - postes 23 a 44 (Fase II);22;8h;Início do trecho;-20.6741092543;-40.5000744317
-12/01/2027;Guarapari;Centro;3;Av. Joaquim da Silva Lima;Trecho 3 - postes 45 a 66 (Fase II);22;8h;Início do trecho;-20.6726076125;-40.4986487667
-26/01/2027;Guarapari;Centro;4;Rua Getúlio Vargas;toda a extensão - postes 1 a 18 (Fase II);18;8h;Início do trecho;-20.670801;-40.496962
-26/01/2027;Guarapari;Centro;4;Travessa Custódio Gonçalves dos Santos;toda a extensão - postes 1 a 6 (Fase II);6;8h;Início do trecho;-20.669837;-40.497102
-23/02/2027;Guarapari;Centro;5;Av. Dr. Roberto Calmon;toda a extensão - postes 1 a 22 (Fase II);22;8h;Início do trecho;-20.669393;-40.498785
+01/12/2026;Guarapari;Centro;1;Av. Joaquim da Silva Lima;Trecho 1 - postes 1 a 22 (Fase II);22;8h;Posto Dino (Tigrão);-20.6685852;-40.4985389
+15/12/2026;Guarapari;Centro;2;Av. Joaquim da Silva Lima;Trecho 2 - postes 23 a 44 (Fase II);22;8h;Posto Dino (Tigrão);-20.6685852;-40.4985389
+02/02/2027;Guarapari;Centro;3;Av. Joaquim da Silva Lima;Trecho 3 - postes 45 a 66 (Fase II);22;8h;Posto Dino (Tigrão);-20.6685852;-40.4985389
+23/02/2027;Guarapari;Centro;4;Rua Getúlio Vargas;toda a extensão - postes 1 a 18 (Fase II);18;8h;Posto Dino (Tigrão);-20.6685852;-40.4985389
+23/02/2027;Guarapari;Centro;4;Travessa Custódio Gonçalves dos Santos;toda a extensão - postes 1 a 6 (Fase II);6;8h;Posto Dino (Tigrão);-20.6685852;-40.4985389
+09/03/2027;Guarapari;Centro;5;Av. Dr. Roberto Calmon;toda a extensão - postes 1 a 22 (Fase II);22;8h;Posto Dino (Tigrão);-20.6685852;-40.4985389
