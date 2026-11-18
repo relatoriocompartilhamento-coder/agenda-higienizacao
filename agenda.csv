@@ -27,13 +27,14 @@ data;municipio;bairro;acao;logradouro;trecho;postes;horario;ponto_encontro;latit
 28/10/2026;Piúma;;3;Av. Guido Brunini;Rações Litoral → Aghá Salgados;28;8h;Próximo à ponte sobre o Rio Novo;-20.8539768;-40.7514072
 11/11/2026;Piúma;;4;Av. Guido Brunini;Aghá Salgados → final do trecho urbano;20;8h;Próximo à ponte sobre o Rio Novo;-20.8539768;-40.7514072
 18/11/2026;Piúma;;5;Rua Miguel Metri;Comunidade da Sagrada Família → Loja Pontocom;22;8h;Praça da Igreja Sagrada Família;-20.838798;-40.729856
-25/11/2026;Piúma;;6;Rua Miguel Metri;Loja Pontocom → Igreja Pentecostal Água Viva;24;8h;Praça da Igreja Sagrada Família;-20.838798;-40.729856
-02/12/2026;Piúma;;7;Rua Miguel Metri;Igreja Pentecostal Água Viva → Salgaderia Stein;18;8h;Praça da Igreja Sagrada Família;-20.838798;-40.729856
-17/02/2027;Piúma;;8;Orla de Piúma;Academia Mauro Boto → Posto Ventura;22;8h;Em frente à Academia Clube do Farol;-20.852802;-40.748946
-24/02/2027;Piúma;;9;Orla de Piúma;Posto Ventura → Jucy Supermercado;21;8h;Em frente à Academia Clube do Farol;-20.852802;-40.748946
-03/03/2027;Piúma;;10;Orla de Piúma;Jucy Supermercado → Piúma Praia Hotel;23;8h;Em frente à Academia Clube do Farol;-20.852802;-40.748946
-10/03/2027;Piúma;;11;Orla de Piúma;Piúma Praia Hotel → Academia Clube do Farol;23;8h;Em frente à Academia Clube do Farol;-20.852802;-40.748946
-17/03/2027;Piúma;;12;Quarteirão no final da Orla;R. Itaperuna, Av. Beira Mar, R. Darly Carvalho e Av. Guido Brunini;16;8h;Em frente à Academia Clube do Farol;-20.852802;-40.748946
+25/11/2026;Piúma;Centro;6;Rua Maria Gonsalves Marvila;Praça Jarbas Alves Bourguignon → fim do trecho;25;8h;Praça Jarbas Alves Bourguignon;-20.836791;-40.726697
+02/12/2026;Piúma;;7;Rua Miguel Metri;Loja Pontocom → Igreja Pentecostal Água Viva;24;8h;Praça da Igreja Sagrada Família;-20.838798;-40.729856
+17/02/2027;Piúma;;8;Rua Miguel Metri;Igreja Pentecostal Água Viva → Salgaderia Stein;18;8h;Praça da Igreja Sagrada Família;-20.838798;-40.729856
+24/02/2027;Piúma;;9;Orla de Piúma;Academia Mauro Boto → Posto Ventura;22;8h;Em frente à Academia Clube do Farol;-20.852802;-40.748946
+03/03/2027;Piúma;;10;Orla de Piúma;Posto Ventura → Jucy Supermercado;21;8h;Em frente à Academia Clube do Farol;-20.852802;-40.748946
+10/03/2027;Piúma;;11;Orla de Piúma;Jucy Supermercado → Piúma Praia Hotel;23;8h;Em frente à Academia Clube do Farol;-20.852802;-40.748946
+17/03/2027;Piúma;;12;Orla de Piúma;Piúma Praia Hotel → Academia Clube do Farol;23;8h;Em frente à Academia Clube do Farol;-20.852802;-40.748946
+24/03/2027;Piúma;;13;Quarteirão no final da Orla;R. Itaperuna, Av. Beira Mar, R. Darly Carvalho e Av. Guido Brunini;16;8h;Em frente à Academia Clube do Farol;-20.852802;-40.748946
 18/10/2026;Santa Maria de Jetibá;Centro;1;Rua Hermann Miertschink;toda a extensão;;8h;Prefeitura Municipal (Av. Frederico Grulke, 160);;
 29/11/2026;Santa Maria de Jetibá;Centro;2;Rua do Imigrante;toda a extensão;;8h;Prefeitura Municipal (Av. Frederico Grulke, 160);;
 13/12/2026;Santa Maria de Jetibá;Centro;3;Rua Henrique Potratz;toda a extensão;;8h;Prefeitura Municipal (Av. Frederico Grulke, 160);;
