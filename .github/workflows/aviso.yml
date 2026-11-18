@@ -2,7 +2,7 @@ name: Aviso de ações no Telegram
 
 on:
   schedule:
-    - cron: "0 13 * * *"   # todo dia às 10h (horário de Brasília)
+      - cron: "13 8 * * *"   # todo dia às 5h13 (horário de Brasília)
   workflow_dispatch:
     inputs:
       modo:
