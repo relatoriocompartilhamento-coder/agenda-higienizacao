@@ -64,3 +64,5 @@ data;municipio;bairro;acao;logradouro;trecho;postes;horario;ponto_encontro;latit
 20/11/2026;São Mateus;Carapina;1;Da Praça Amélia Boroto até a Meridional;;;8h;Praça Amélia Boroto;-18.723603;-39.851594
 05/12/2026;São Mateus;Carapina;2;Da Praça Amélia Boroto até a Meridional;;;8h;Praça Amélia Boroto;-18.723603;-39.851594
 29/11/2026;Cariacica;Itacibá;2;Rua Manoel Joaquim dos Santos;;;8h;;-20.322763;-40.375221
+26/11/2026;Anchieta;;1;Av. Marechal Floriano;Da Igreja Missão até o poste 20 (próximo à Rua Augusto Freire Louto);20;8h;Igreja Missão;-20.807988;-40.637599
+27/11/2026;Anchieta;;2;Av. Marechal Floriano;Do poste 21 (próximo à Rua Augusto Freire Louto) até o fim do trecho, no Centro;20;8h;Igreja Missão;-20.807988;-40.637599
